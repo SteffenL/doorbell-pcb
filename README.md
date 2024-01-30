@@ -2,6 +2,10 @@
 
 Prototype design for doorbell hardware.
 
+Related projects:
+* https://github.com/SteffenL/doorbell-mcu
+* https://github.com/SteffenL/doorbell-app-android
+
 Features:
 
 * Plugs into a LOLIN32 development board (Espressif ESP32).
