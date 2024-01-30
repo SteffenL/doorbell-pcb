@@ -25,6 +25,6 @@ Features:
 </p>
 <div style="clear: both"></div>
 <p>
-  <video style="float: left; width: 640px; height: 360px" src="https://raw.githubusercontent.com/SteffenL/doorbell-pcb-assets/master/assets/ring_notify.mp4"></video>
+  <video style="float: left; width: 640px; height: 360px" src="https://github.com/SteffenL/doorbell-pcb/assets/1543854/65a9893a-05a4-455d-b5d6-bc498b06eb5a"></video>
 </p>
 <div style="clear: both"></div>
