@@ -5,6 +5,7 @@ Prototype design for doorbell hardware.
 Related projects:
 * https://github.com/SteffenL/doorbell-mcu
 * https://github.com/SteffenL/doorbell-app-android
+* https://github.com/SteffenL/doorbell-server
 
 Features:
 
