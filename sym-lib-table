@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name doorbell)(type Legacy)(uri ${KIPRJMOD}/doorbell.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "doorbell")(type "Legacy")(uri "${KIPRJMOD}/doorbell.lib")(options "")(descr ""))
+  (lib (name "doorbell-pcb-rescue")(type "KiCad")(uri "${KIPRJMOD}/doorbell-pcb-rescue.kicad_sym")(options "")(descr ""))
 )
